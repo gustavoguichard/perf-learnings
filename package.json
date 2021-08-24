@@ -1,0 +1,12 @@
+{
+  "name": "performance-presentation",
+  "version": "1.0.0",
+  "description": "Slides for performance use case",
+  "license": "MIT",
+  "scripts": {
+    "start": "reveal-md index.md"
+  },
+  "dependencies": {
+    "reveal-md": "^5.1.3"
+  }
+}
